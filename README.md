@@ -1,5 +1,5 @@
-### Hi there 👋
-### Hi I'm Isaac Yeboah, <img src="./wave.gif" width="30px">
+
+## Hi I'm Isaac Yeboah, <img src="https://github.com/kojoYeboah53i/kojoyeboah53i/blob/main/wave.gif" width="30px">
 <br/>
 
 - 🔭 I’m currently working on social web application
@@ -46,9 +46,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codjosoft&hide=java,html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
 
-<br/>
-<img  src="https://github-readme-streak-stats.herokuapp.com/?user=yeboah.determined.isaac@gmail.com&theme=dracula" />
-<br/>
+
 
 
 
