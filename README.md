@@ -46,7 +46,7 @@ Here are some ideas to get you started:
 <img src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-plain-wordmark.svg" width="35px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" width="35px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=kojoyeboah53i&show_icons=true&include_all_commits=true&theme=dracula&count_private=true"/>
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=codjosoft&show_icons=true&include_all_commits=true&theme=dracula&count_private=true"/>
 <a href="https://github.com/codjosoft/codjosoft">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codjosoft&hide=java,html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
