@@ -1,19 +1,14 @@
 ### Hi there 👋
-
-**codjosoft/codjosoft** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 ### Hi I'm Isaac Yeboah, <img src="./wave.gif" width="30px">
 <br/>
+
+- 🔭 I’m currently working on social web application
+- 🌱 I’m currently learning Vue.js
+- 👯 I’m looking to collaborate on machine learning with python Tensorflow
+- 🤔 I’m looking for help with machine learning algorithm for soccer predictions
+- 💬 Ask me about Laravel and C++
+
+<br>
 
 
 ## 🔧 Technologies & Tools
@@ -52,7 +47,7 @@ Here are some ideas to get you started:
 </a>
 
 <br/>
-<img  src="https://github-readme-streak-stats.herokuapp.com/?user=kojoyeboah53i&theme=dracula" />
+<img  src="https://github-readme-streak-stats.herokuapp.com/?user=yeboah.determined.isaac@gmail.com&theme=dracula" />
 <br/>
 
 
