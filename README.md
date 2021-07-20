@@ -19,9 +19,7 @@
 
 ###  📫 How to reach me:
 
- <!-- <a href="https://twitter.com/_iamEtornam">
-  <img align="left" alt="Isaac's Gmail" width="22px" src="https://github.com/devicons/devicon/blob/master/icons/gmail/gmail-original.svg" /> -->
-<!-- </a> -->
+
 <a href="https://www.linkedin.com/in/isaac-yeboah-626b821ab"> 
   <img align="left" alt="Isaac's Linkdein" width="22px" src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" />
 </a>
@@ -42,7 +40,7 @@
 <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" width="35px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 <a href="https://github.com/codjosoft/codjosoft">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=r44j&hide=java,html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kojoyeboah53i&hide=java,html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
 
 
